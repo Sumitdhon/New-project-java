@@ -2,8 +2,8 @@ package Project;
 
 import java.util.Scanner;
 
-public class TemperatureCalculator {
-  public static void main(String[] args) {
+ private class TemperatureCalculator {
+   private static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
     System.out.println("Temperature Calculator");
